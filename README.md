@@ -14,7 +14,7 @@ I also have experience developing **mobile apps**, from architecture and project
 - React Native | Expo | EAS  
 - Figma | Maze | Adalo  
 - Git | GitHub | GitLab
-- 
+
 ---
 
 ### 📫 Contact
