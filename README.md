@@ -1,13 +1,26 @@
+# 😀 Hi, I'm Vinícius!
+### About me
 
-# 😀 Hi, I'm Vinícius!  
-### About me:
+I'm Vini! 👋 I'm a **Computer Engineer (UniSatc)** and have been working as a **Front-end Web Developer** for over 2 years.  
+Currently, I work developing web applications for business management using mostly **React, Next.js, Material-UI**, with a strong focus on **UX/UI**.
 
+I also have experience developing **mobile apps**, from architecture and project setup to publishing them on the **App Store** and **Google Play Store**.
 
-- 💻 I'm currently graduating in Computer Engineering (UniSatc). 
-- 📍 From Brasil-SC. 
-- 👨🏼‍🏫 Dedicated to always learning new technologies and ways of thinking. <p>
-👇🏼 Follow me!  <p>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mrc/)](https://www.linkedin.com/in/vinicius-mrc/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/vinicius-mrc/)
-](https://instagram.com/vini_mrc) 
+---
 
+### 💻 Tech & Tools
+- ReactJS | NextJS | JavaScript | TypeScript  
+- Material-UI | Styled Components  
+- React Native | Expo | EAS  
+- Figma | Maze | Adalo  
+- Git | GitHub | GitLab
+- 
+---
 
+### 📫 Contact
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mrc/)](https://www.linkedin.com/in/vinicius-mrc/)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vini_mrc)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniMerc)  
+
+📍 Urussanga – SC, Brazil  
+---
