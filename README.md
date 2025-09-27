@@ -8,7 +8,7 @@ I also have experience developing **mobile apps**, from architecture and project
 
 ---
 
-###👨🏻‍💻 Tech & Tools
+### 👨🏻‍💻 Tech & Tools
 - 💻 React.JS | Next.JS | JavaScript/TypeScript | Material-UI 
 - 🖥️ Node.JS | PostgreSQL | 
 - 📱 React Native | Expo | EAS  
