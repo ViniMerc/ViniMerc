@@ -9,8 +9,8 @@ I also have experience developing **mobile apps**, from architecture and project
 ---
 
 ### 💻 Tech & Tools
-- ReactJS | NextJS | JavaScript | TypeScript  
-- Material-UI | Styled Components  
+- React.JS | Next.JS | JavaScript/TypeScript | Material-UI 
+- Node.JS | PostgreSQL | 
 - React Native | Expo | EAS  
 - Figma | Maze | Adalo  
 - Git | GitHub | GitLab
